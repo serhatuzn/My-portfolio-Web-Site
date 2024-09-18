@@ -14,7 +14,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için:
 
 1. Bu depoyu klonlayın:
     bash
-    git clone https://github.com/kullaniciadiniz/portfoylo-clone.git
+    git clone https://github.com/serhatuzn/My-portfolio-Web-Site
     
 
 2. Proje klasörüne gidin:
